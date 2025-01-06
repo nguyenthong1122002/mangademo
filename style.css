@@ -28,7 +28,7 @@ footer{
     max-width:700px;
     display: block;
     margin: 0 auto;
-    padding: 0 0 5 0;
+    padding: 0px 0px 5px 0px;
 }
 .list-chapter{
     display: flex;
@@ -59,7 +59,7 @@ footer{
     font-size: 15px;
     border-radius: 5px;
     font-weight:bold;
-    margin:0 5 0 5;
+    margin:0px 5px 0px 5px;
 }
 
 .list-chapter1{
@@ -93,5 +93,5 @@ footer{
     font-size: 15px;
     border-radius: 5px;
     font-weight:bold;
-    margin:0 5 0 15;
+    margin:0px 5px 0px 15px;
 }
